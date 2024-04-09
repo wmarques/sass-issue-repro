@@ -1,0 +1,6 @@
+@use 'src/styles/theming' as theming;
+
+
+.img {
+  background-image: var(--img-path);
+}
